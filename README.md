@@ -13,6 +13,11 @@ Each folder is a separate mini-project and contains its own README.md with a sec
   - **Description:** A basic `tkinter` text editor that can create, open, edit, and save text files, with options to change font, size, and text color.
   - **Main file:** `texteditor.py`
 
+- `tic_tac_toe/`
+  - **Description:** A two-player Tic Tac Toe game built with `tkinter` that lets players take turns on a 3×3 grid, highlights the winning line, and detects ties.
+  - **Main file:** `tictactoe.py`
+
+
 <!-- Add new projects below as you create them -->
 <!-- Example:
 - `some_new_project/`
