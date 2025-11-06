@@ -17,6 +17,9 @@ Each folder is a separate mini-project and contains its own README.md with a sec
   - **Description:** A two-player Tic Tac Toe game built with `tkinter` that lets players take turns on a 3×3 grid, highlights the winning line, and detects ties.
   - **Main file:** `tictactoe.py`
 
+- `snake_game/`
+  - **Description:** A classic Snake game built with `tkinter` where the snake moves on a grid, eats food to grow, tracks score, detects collisions, and allows restarting after game over.
+  - **Main file:** `snake.game.py`
 
 <!-- Add new projects below as you create them -->
 <!-- Example:
